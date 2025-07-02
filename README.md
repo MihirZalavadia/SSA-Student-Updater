@@ -1,17 +1,28 @@
-# 🧠 SSA Gujarat Student Form Auto-Updater
+# SSA Student Updater
 
-Update 300+ student records in minutes — not days.
+Automates updating of student records on government portal. Saves teachers from hours of tedious processing.
 
-## ⚙️ Built With:
-- Python + Playwright
-- Pandas + OpenPyXL
-- Gov UI pain and hustle
+## 🚀 Features
 
----
+- Logs into portal using Playwright
+- Automatically updates selected fields based on `baseline.xlsx`
+- Handles classes 11 & 12; skips class 9 entirely
+- Robust error-handling with logs written back to `students.xlsx`
+- Lightweight: processes ≈ 50 sec/student vs 4 min manually
 
-## 🚀 How to Use (No Coding Needed)
+## ⚙️ Prerequisites
 
-1. **Install Python** (if not already)
-   👉 [Download Python 3.11+](https://www.python.org/downloads/)
+- Python 3.10+
+- Git
+- Internet access to gov portal
+- Valid login credentials
 
-2. **Install Dependencies**
+## 🧩 Setup
+
+```bash
+git clone https://github.com/MihirZalavadia/SSA-Student-Updater.git
+cd SSA-Student-Updater
+python -m venv .venv
+source .venv/bin/activate    # or `.venv\Scripts\activate` on Windows
+pip install -r requirements.txt
+playwright install
