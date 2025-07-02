@@ -1,0 +1,1398 @@
+[
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtAdmissionNo",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtrollnumber",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtStudName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtFatherName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtMotherName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtSurName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtguardianName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlHabitation",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-Rural",
+      "2": "2-Urban"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddldistrict",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "2401": "2401-KACHCHH",
+      "2402": "2402-BANASKANTHA",
+      "2403": "2403-PATAN",
+      "2404": "2404-MAHESANA",
+      "2405": "2405-SABAR KANTHA",
+      "2406": "2406-GANDHINAGAR",
+      "2407": "2407-AHMEDABAD",
+      "2408": "2408-SURENDRANAGAR",
+      "2409": "2409-RAJKOT",
+      "2410": "2410-JAMNAGAR",
+      "2411": "2411-PORBANDAR",
+      "2412": "2412-JUNAGADH",
+      "2413": "2413-AMRELI",
+      "2414": "2414-BHAVNAGAR",
+      "2415": "2415-ANAND",
+      "2416": "2416-KHEDA",
+      "2417": "2417-PANCH MAHALS",
+      "2418": "2418-DOHAD",
+      "2419": "2419-VADODARA",
+      "2420": "2420-NARMADA",
+      "2421": "2421-BHARUCH",
+      "2422": "2422-SURAT",
+      "2423": "2423-THE DANGS",
+      "2424": "2424-NAVSARI",
+      "2425": "2425-VALSAD",
+      "2426": "2426-TAPI",
+      "2427": "2427-ARAVALLI",
+      "2428": "2428-BOTAD",
+      "2429": "2429-DEVBHOOMI DWARKA",
+      "2430": "2430-GIR SOMNATH",
+      "2431": "2431-MAHISAGAR",
+      "2432": "2432-CHHOTAUDEPUR",
+      "2433": "2433-MORBI",
+      "2499": "2499-TestDistrict"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlblock",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "240901": "DHORAJI",
+      "240902": "GONDAL",
+      "240903": "JAMKANDORNA",
+      "240904": "JASDAN",
+      "240905": "JETPUR",
+      "240906": "KOTDA SANGANI",
+      "240907": "LODHIKA",
+      "240910": "PADDHARI",
+      "240911": "RAJKOT",
+      "240913": "UPLETA",
+      "240915": "RAJKOT CORPORATION",
+      "240916": "VINCHHIYA"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlvillage",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "240915024": "WARD NO. 12(1)",
+      "240915001": "WARD NO.1",
+      "240915010": "WARD NO.10",
+      "240915009": "WARD NO.11",
+      "240915012": "WARD NO.12",
+      "240915013": "WARD NO.13",
+      "240915014": "WARD NO.14",
+      "240915015": "WARD NO.15",
+      "240915016": "WARD NO.16",
+      "240915017": "WARD NO.17",
+      "240915018": "WARD NO.18",
+      "240915019": "WARD NO.19",
+      "240915002": "WARD NO.2",
+      "240915020": "WARD NO.20",
+      "240915021": "WARD NO.21",
+      "240915022": "WARD NO.22",
+      "240915023": "WARD NO.23",
+      "240915025": "WARD NO.24",
+      "240915026": "WARD NO.25",
+      "240915003": "WARD NO.3",
+      "240915004": "WARD NO.4",
+      "240915005": "WARD NO.5",
+      "240915006": "WARD NO.6",
+      "240915007": "WARD NO.7",
+      "240915008": "WARD NO.8",
+      "240915011": "WARD NO.9"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txthouseNo",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtSocietyName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtlandmark",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtarea",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtpincode",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtAadhaarUniqueId",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlMotherTongue",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1-Assamese",
+      "2": "2-Bengali",
+      "3": "3-Gujarati",
+      "4": "4-Hindi",
+      "5": "5-Kannada",
+      "6": "6-Kashmiri",
+      "7": "7-Konkani",
+      "8": "8-Malayalam",
+      "9": "9-Manipuri",
+      "10": "10-Marathi",
+      "11": "11-Nepali",
+      "12": "12-Odia",
+      "13": "13-Punjabi",
+      "14": "14-Sanskrut",
+      "15": "15-Sindhi",
+      "16": "16-Tamil",
+      "17": "17-Telugu",
+      "18": "18-Urdu",
+      "19": "19-English",
+      "20": "20-Bodo",
+      "22": "22-Dogri",
+      "23": "23-Khasi",
+      "24": "24-Garo",
+      "25": "25-Mizo",
+      "26": "26-Bhutia",
+      "27": "27-Lepcha",
+      "28": "28-Limboo",
+      "29": "29-French",
+      "30": "30-Hmar",
+      "31": "31-Bishnupriya Manipuri,",
+      "32": "32-Karbi",
+      "39": "39-Santhali",
+      "41": "41-Angami",
+      "42": "42-Ao",
+      "43": "43-Arabic",
+      "44": "44-Bhoti",
+      "45": "45-Bodhi",
+      "46": "46-German",
+      "47": "47-Kakbarak",
+      "48": "48-Konyak",
+      "49": "49-Laddakhi",
+      "50": "50-Lotha",
+      "51": "51-Maithali",
+      "52": "52-Nicobaree",
+      "53": "53-Odia(lower)",
+      "54": "54-Persian",
+      "55": "55-Portuguese",
+      "56": "56-Rajasthani",
+      "57": "57-Russian",
+      "58": "58-Sema",
+      "59": "59-Spanish",
+      "60": "60-Tibetan",
+      "61": "61-Zeliang",
+      "62": "62-Mundari",
+      "63": "63-Khadia",
+      "64": "64-Kuruk",
+      "65": "65-Ho",
+      "71": "71-Balti",
+      "72": "72-Purgi",
+      "97": "97-Other Foreign language",
+      "99": "99-Other Indian language"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtDateOfBirth",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtDateOfAddmission",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlGender",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1-Boy",
+      "2": "2-Girl",
+      "3": "3-Transgender"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlSocialCategory",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1-General",
+      "2": "2-SC",
+      "3": "3-ST",
+      "4": "4-OBC"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlsubcaste",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "11": "11-General",
+      "12": "12-Economic Backward",
+      "13": "13-Economically Weaker Section (EWS)"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_aadharId",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtStudentNameasperAadharcard",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlReligion",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1-Hindu",
+      "2": "2-Muslim",
+      "3": "3-Christian",
+      "4": "4-Sikh",
+      "5": "5-Buddhist",
+      "6": "6-Jain",
+      "8": "8-Parshi",
+      "7": "7-Other"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIndianCitizen",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtBelongToBPL",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlBenificialForAAY",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlUnderWhatChildrenAdmitted",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0-None",
+      "1": "1-Section 12 of the RTE",
+      "2": "2-EWS",
+      "3": "3-Persons with Disabilities (PwD)",
+      "4": "4-Disadvantaged Group",
+      "5": "5-Others"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtGettingFreeEdu",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtDisadvantagedGroup",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlStudyingClass",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10",
+      "11": "11",
+      "12": "12",
+      "99": "99",
+      "102": "102"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlSection",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F",
+      "G": "G",
+      "H": "H",
+      "I": "I",
+      "J": "J",
+      "K": "K",
+      "L": "L",
+      "M": "M",
+      "N": "N",
+      "O": "O",
+      "P": "P",
+      "Q": "Q",
+      "R": "R",
+      "S": "S",
+      "T": "T",
+      "U": "U",
+      "V": "V",
+      "W": "W",
+      "X": "X",
+      "Y": "Y",
+      "Z": "Z"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtStatusofPrevYear",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0-લાગુ પડતું નથી",
+      "1": "1-આ શાળામાં જ",
+      "2": "2-બીજી શાળા",
+      "3": "3-આંગણવાડી/ECCE",
+      "4": "4-None/Not Studying"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlClassStudiedPrevYear",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10",
+      "11": "11",
+      "12": "12",
+      "99": "99",
+      "102": "102"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtPrevYearAtt",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlLastExamAppeared",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "Select",
+      "1": "1 - Yes",
+      "2": "2 - No"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlResultOfLastExamination",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-Promoted/Passed",
+      "2": "2-Promoted/Passed with grace",
+      "3": "3-Detained/Repeater/Not Passed",
+      "4": "4-Promoted/Passed without Examination"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtmarksobtained",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlMediumOfInstruction",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "3": "Gujarati"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIsDiagnosed",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "Select",
+      "1": "1 - Yes",
+      "2": "2 - No"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlDisability",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "1": "1-VISUAL IMPAIRMENT (BLINDNESS)",
+      "2": "2-VISUAL IMPAIRMENT (LOW-VISION)",
+      "3": "3-HEARING IMPAIRMENT",
+      "4": "4-SPEECH IMPAIRMENT",
+      "5": "5-LOCOMOTOR IMPAIRMENT",
+      "6": "6-INTELLECTUAL DISABILITY",
+      "7": "7-SPECIFIC LEARNING DISABILITIES",
+      "8": "8-CEREBRAL PALSY",
+      "9": "9-AUTISM SPECTRUM DISORDER",
+      "10": "10-MULTIPLE DISABILITY",
+      "11": "11-LEPROSY CURED PERSONS",
+      "12": "12-DWARFISM",
+      "13": "13-MUSCULAR DYSTROPHY",
+      "14": "14-ACID ATTACK VICTIM",
+      "15": "15-MENTAL ILLNESS",
+      "16": "16-MULTIPLE SCLEROSIS",
+      "17": "17-PARKINSONS DISEASE",
+      "18": "18-HAEMOPHILIA",
+      "19": "19-THALASSEMIA",
+      "20": "20-SICKLE CELL DISEASE",
+      "21": "21-CHRONIC NEUROLOGICAL CONDITION"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_IsCSWNCertificate",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtMedicalCertificateNumber",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtDegreeOfDisability",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlNoCertificateReason",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1 - Nonlocal Address (District / State)",
+      "2": "2 - Missing of required documents",
+      "3": "3 - Non acceptance of Parents",
+      "4": "4 - Busy Schedule of Parents",
+      "5": "5 - Unavailability of Doctor",
+      "6": "6 - Unavailability of Diagnosis facility",
+      "7": "7 - Rejection by Doctor",
+      "8": "8 - Others"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtNoCertificateOtherReason",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtUDIDCardNo",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtUDIDCardIssueDate",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlUDIDCardValid",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1 - Permanent",
+      "2": "2 -Temporary"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIsParticipatedInCamp",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlAidsReceived",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "1": "Brail books",
+      "2": "Brail kit",
+      "3": "Low-vision Kit",
+      "4": "Hearing aid",
+      "5": "Braces",
+      "6": "Crutches",
+      "7": "Wheelchair",
+      "8": "Tri-cycle",
+      "9": "Calliper",
+      "10": "Other",
+      "11": "Smart Cane",
+      "12": "Daisy Player",
+      "13": "Magnifying lens",
+      "14": "Large print books",
+      "15": "Rolators",
+      "16": "Fabricating appliances",
+      "17": "ID Kit-2",
+      "18": "ID Kit-3",
+      "19": "ID Kit-4",
+      "20": "C.P wheelchair",
+      "21": "MSIED Kit",
+      "22": "Braille Cane Folding",
+      "23": "Smart Phone",
+      "24": "Walking Stick",
+      "25": "Prosthetic Accessories",
+      "26": "ADL kit",
+      "27": "ઉપકરણ પ્રાપ્ત થયેલ નથી",
+      "28": "ડોકટરે રિજેક્ટ કરેલ છે",
+      "99": "Not Applicable"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlProvisionRecieved",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "1": "1 - Girls Stipend",
+      "2": "2 - Transport Allowance",
+      "3": "3 - Escort Allowance",
+      "4": "4 - Reader Allowance",
+      "5": "5 - Therapy Support",
+      "6": "6 - Helper/Ayas",
+      "7": "7 - Homebase Education",
+      "8": "8 - Not Applicable"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlCheckup_Specific_Learning_Disability",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlTypeOf_Specific_Learning_Disability",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "Dysgraphia-1",
+      "2": "Dyscalculia-2",
+      "3": "Dyslexia-3"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlCheckup_Autism_Spectrum_Disorder",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlCheckup_Attention_Deficit_Hyperactive_Disorder",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIncentive_Benefits_Facilities_Provided_Child",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtSetofFreeTextbox",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0-લાગુ પડતું નથી",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtSchoolUniform",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "-1": "----Select----",
+      "99": "99 - લાગુ પડતું નથી",
+      "1": "1 - ૧ જોડ",
+      "2": "2 - ર જોડ",
+      "0": "0 - નથી"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtFreeTransportFacility",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0 - લાગુ પડતું નથી",
+      "1": "1 - હા",
+      "2": "2 - ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtFreeEscortFacility",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0 - લાગુ પડતું નથી",
+      "1": "1 - હા",
+      "2": "2 - ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlmiddaymeal",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0 - લાગુ પડતું નથી",
+      "1": "1 - હા",
+      "2": "2 - ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtFreeHostel",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0-Not applicable",
+      "1": "1-KGBV",
+      "2": "2-Government School other than KGBV",
+      "4": "4-Others",
+      "5": "5-Ashram (Govt)",
+      "6": "6-Non-Ashram (Govt)",
+      "7": "7-Private",
+      "8": "8-Model School",
+      "9": "9-Eklavya Model Residential School",
+      "10": "10-Jawahar Navodaya Vidyalaya",
+      "11": "11-Netaji Subhash Residential School",
+      "12": "12-Seasonal Hostels (SSA)",
+      "13": "13-Residential Hostel (SSA)"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlKGBVhostel",
+    "label": "",
+    "kind": "select",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlfreeBicycle",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0 - લાગુ પડતું નથી",
+      "1": "1 - હા",
+      "2": "2 - ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlFree_Mobile_Tablet_Computer",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlScholarship_Received_Previous_Academic_Year",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlCentral_Scholarship",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlCentral_Scholarship_Code_Name",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1- Pre Matric Scholarships Scheme for Minorities (MoMA)",
+      "2": "2- Post Matric Scholarships Scheme for Minorities(MoMA)",
+      "3": "3- BEGUM HAZRAT MAHAL NATIONAL SCHOLARSHIP (MoMA)",
+      "4": "4- Pre-matric Scholarship for Students with Disabilities (DEPwD)",
+      "5": "5- Post-matric Scholarship for Students with Disabilities (DEPwD)",
+      "6": "6- Post Matric Scholarship for SC students (All States) (MoSJE)",
+      "7": "7- Pre Matric Scholarship for SC students for Class IX and X(All States) (MoSJE)",
+      "8": "8- Financial Assistance for Education of the Wards of Beedi/Cine/IOMC/LSDM Workers - Post-Matric (MoLE)",
+      "9": "9- Financial Assistance for Education of the Wards of Beedi/Cine/IOMC/LSDM Workers - Pre-Matric (MoLE)",
+      "10": "10- National Means Cum Merit Scholarship (DoSEL)",
+      "11": "11- Prime Minister's Scholarship Scheme For Central Armed Police Forces And Assam Rifles",
+      "12": "12- Prime Minister’s Scholarship Scheme for wards of States/UTs Police Personnel Martyred during Terror/Naxal Attacks",
+      "13": "13- Prime Minister's Scholarship Scheme For RPF/RPSF",
+      "14": "14- Financial Support to the students of NER for Higher Professional Courses(NEC MERIT SCHOLARSHIP)",
+      "15": "15- Other Central Scholarships"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlState_Scholarship",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlOther_Scholarship",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Scholarship_Amount",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtChildIsHomeless",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0-લાગુ પડતું નથી",
+      "1": "1-માતાપિતા સાથે",
+      "2": "2-પુખ્ત રક્ષણ વિના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlInvolved_Extracurricular_Activity",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIdentified_Gifted_Talented_Child",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlList_Gifted_Talented_Child_Fields",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "1": "Mathematics",
+      "2": "Technical",
+      "3": "Language",
+      "4": "Sports",
+      "5": "Science",
+      "6": "Art"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlWhether_Provided_Mentors_For_Gifted_Talented_Child",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlParticipated_Nurturance_Camps_For_Gifted_Talented_Child",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlNurturance_Camps_State_Level",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlNurturance_Camps_National_Level",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlCompetitions_State_Olympiads_National_Level",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlParticipate_NCC_NSS_Scouts_Guides",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_TxtAttendedSpecialTraining",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "0": "0-લાગુ પડતું નથી",
+      "1": "1-નિવાસી",
+      "2": "2-બિનનિવાસી"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIdentified_OOSC_Current_Previous_Years",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIsMainstreamed",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1 - In Current Academic Year",
+      "2": "2 - In Previous Academic Year"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_NameofBank",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]",
+      "NA": "NA",
+      "PUNJAB NATIONAL BANK": "PUNJAB NATIONAL BANK",
+      "TJSB SAHAKARI BANK LTD": "TJSB SAHAKARI BANK LTD",
+      "ABHYUDAYA COOPERATIVE BANK": "ABHYUDAYA COOPERATIVE BANK",
+      "AHMEDABAD MERCANTILE COOPERATIVE BANK": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+      "AIRTEL PAYMENTS BANK LIMITED": "AIRTEL PAYMENTS BANK LIMITED",
+      "AKOLA JANATA COMMERCIAL COOPERATIVE BANK": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+      "ALLAHABAD BANK": "ALLAHABAD BANK",
+      "ALMORA URBAN CO-OPERATIVE BANK LTD": "ALMORA URBAN CO-OPERATIVE BANK LTD",
+      "ANDHRA BANK": "ANDHRA BANK",
+      "ANDHRA PRAGATHI GRAMEENA BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+      "APNA SAHAKARI BANK LTD": "APNA SAHAKARI BANK LTD",
+      "AXIS BANK": "AXIS BANK",
+      "BANDHAN BANK LIMITED": "BANDHAN BANK LIMITED",
+      "BANK OF BARODA": "BANK OF BARODA",
+      "BANK OF INDIA": "BANK OF INDIA",
+      "BANK OF MAHARASHTRA": "BANK OF MAHARASHTRA",
+      "BARODA GUJARAT GRAMIN BANK": "BARODA GUJARAT GRAMIN BANK",
+      "BHARAT COOPERATIVE BANK MUMBAI LTD": "BHARAT COOPERATIVE BANK MUMBAI LTD",
+      "BHARATIYA MAHILA BANK LTD": "BHARATIYA MAHILA BANK LTD",
+      "BNP PARIBAS BANK": "BNP PARIBAS BANK",
+      "CANARA BANK": "CANARA BANK",
+      "CAPITAL LOCAL AREA BANK LTD": "CAPITAL LOCAL AREA BANK LTD",
+      "CAPITAL SMALL FINANCE BANK LTD": "CAPITAL SMALL FINANCE BANK LTD",
+      "CENTRAL BANK OF INDIA": "CENTRAL BANK OF INDIA",
+      "CHINATRUST COMMERCIAL BANK": "CHINATRUST COMMERCIAL BANK",
+      "CITI BANK": "CITI BANK",
+      "CITIZEN CREDIT COOPERATIVE BANK": "CITIZEN CREDIT COOPERATIVE BANK",
+      "CITY UNION BANK LTD": "CITY UNION BANK LTD",
+      "CORPORATION BANK": "CORPORATION BANK",
+      "DBS BANK LTD": "DBS BANK LTD",
+      "DCB BANK LTD": "DCB BANK LTD",
+      "DENA BANK": "DENA BANK",
+      "DOMBIVLI NAGARI SAHAKARI BANK LTD": "DOMBIVLI NAGARI SAHAKARI BANK LTD",
+      "EXPORT IMPORT BANK OF INDIA": "EXPORT IMPORT BANK OF INDIA",
+      "FEDERAL BANK LTD": "FEDERAL BANK LTD",
+      "GURGAON GRAMIN BANK LTD": "GURGAON GRAMIN BANK LTD",
+      "HDFC BANK LTD": "HDFC BANK LTD",
+      "HIMACHAL PRADESH STATE CO-OPERATIVE BANK LTD": "HIMACHAL PRADESH STATE CO-OPERATIVE BANK LTD",
+      "HSBC": "HSBC",
+      "ICICI BANK LTD": "ICICI BANK LTD",
+      "IDBI LTD": "IDBI LTD",
+      "IDFC BANK LTD": "IDFC BANK LTD",
+      "IDUKKI DISTRICT CO-OPERATIVE BANK LTD": "IDUKKI DISTRICT CO-OPERATIVE BANK LTD",
+      "INDIA POST PAYMENT BANK": "INDIA POST PAYMENT BANK",
+      "INDIAN BANK": "INDIAN BANK",
+      "INDIAN OVERSEAS BANK": "INDIAN OVERSEAS BANK",
+      "INDUSIND BANK LTD": "INDUSIND BANK LTD",
+      "JANAKALYAN SAHAKARI BANK LTD": "JANAKALYAN SAHAKARI BANK LTD",
+      "JANASEVA SAHAKARI BANK LTD": "JANASEVA SAHAKARI BANK LTD",
+      "KALUPUR COMMERCIAL COOPERATIVE BANK": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+      "KALYAN JANATA SAHAKARI BANK LTD": "KALYAN JANATA SAHAKARI BANK LTD",
+      "KAPOL COOPERATIVE BANK": "KAPOL COOPERATIVE BANK",
+      "KARNATAKA BANK LTD": "KARNATAKA BANK LTD",
+      "KARNATAKA VIKAS GRAMEENA BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+      "KARUR VYSYA BANK": "KARUR VYSYA BANK",
+      "KOTAK MAHINDRA BANK": "KOTAK MAHINDRA BANK",
+      "LAXMI VILAS BANK": "LAXMI VILAS BANK",
+      "MAHANAGAR COOPERATIVE BANK LTD": "MAHANAGAR COOPERATIVE BANK LTD",
+      "NAGAR URBAN CO-OPERATIVE BANK": "NAGAR URBAN CO-OPERATIVE BANK",
+      "NEW INDIA COOPERATIVE BAN LTD": "NEW INDIA COOPERATIVE BAN LTD",
+      "NORTH MALABAR GRAMIN BANK": "NORTH MALABAR GRAMIN BANK",
+      "NUTAN NAGARIK SAHAKARI BANK LTD": "NUTAN NAGARIK SAHAKARI BANK LTD",
+      "ORIENTAL BANK OF COMMERCE": "ORIENTAL BANK OF COMMERCE",
+      "PANJAB AND SIND": "PANJAB AND SIND",
+      "POST OFFICE": "POST OFFICE",
+      "PRAGATHI KRISHNA GRAMIN BANK": "PRAGATHI KRISHNA GRAMIN BANK",
+      "PRIME CO-OPERATIVE BANK LTD": "PRIME CO-OPERATIVE BANK LTD",
+      "PUNJAB AND MAHARASHTRA COOPERATIVE BANK LTD": "PUNJAB AND MAHARASHTRA COOPERATIVE BANK LTD",
+      "PUNJAB AND SIND BANK": "PUNJAB AND SIND BANK",
+      "RAJKOT NAGARIK SAHAKARI BANK LTD": "RAJKOT NAGARIK SAHAKARI BANK LTD",
+      "RBL BANK LIMITED": "RBL BANK LIMITED",
+      "RESERVE BANK OF INDIA": "RESERVE BANK OF INDIA",
+      "SAMARTH SAHAKARI BANK LTD": "SAMARTH SAHAKARI BANK LTD",
+      "SARASWAT COOPERATIVE BANK LTD": "SARASWAT COOPERATIVE BANK LTD",
+      "SAURASHTRA GRAMIN BANK": "SAURASHTRA GRAMIN BANK",
+      "SBER BANK": "SBER BANK",
+      "SOUTH INDIAN BANK": "SOUTH INDIAN BANK",
+      "STANDARD CHARTERED BANK": "STANDARD CHARTERED BANK",
+      "STATE BANK OF BIKANER AND JAIPUR": "STATE BANK OF BIKANER AND JAIPUR",
+      "STATE BANK OF HYDERABAD": "STATE BANK OF HYDERABAD",
+      "STATE BANK OF INDIA": "STATE BANK OF INDIA",
+      "STATE BANK OF MYSORE": "STATE BANK OF MYSORE",
+      "STATE BANK OF PATIALA": "STATE BANK OF PATIALA",
+      "STATE BANK OF TRAVANCORE": "STATE BANK OF TRAVANCORE",
+      "SURAT NATIONAL COOPERATIVE BANK LIMITED": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+      "SUTEX COOPERATIVE BANK LTD": "SUTEX COOPERATIVE BANK LTD",
+      "SYNDICATE BANK": "SYNDICATE BANK",
+      "TAMILNAD MERCANTILE BANK LTD": "TAMILNAD MERCANTILE BANK LTD",
+      "THE A.P. MAHESH CO-OP URBAN BANK LTD": "THE A.P. MAHESH CO-OP URBAN BANK LTD",
+      "THE COSMOS COOPERATIVE BANK LTD": "THE COSMOS COOPERATIVE BANK LTD",
+      "THE GUJARAT STATE CO-OPERATIVE BANK LTD": "THE GUJARAT STATE CO-OPERATIVE BANK LTD",
+      "THE MEHSANA URBAN COOPERATIVE BANK LTD": "THE MEHSANA URBAN COOPERATIVE BANK LTD",
+      "THE NAINITAL BANK LTD": "THE NAINITAL BANK LTD",
+      "THE NASIK MERCHANTS CO-OP BANK LTD": "THE NASIK MERCHANTS CO-OP BANK LTD",
+      "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+      "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+      "THE SEVA VIKAS CO-OPERATIVE BANK LTD": "THE SEVA VIKAS CO-OPERATIVE BANK LTD",
+      "THE SHAMRAO VITHAL CO-OPERATIVE BANK LTD": "THE SHAMRAO VITHAL CO-OPERATIVE BANK LTD",
+      "THE SURAT DISTRICT CO OPERATIVE BANK LTD": "THE SURAT DISTRICT CO OPERATIVE BANK LTD",
+      "THE SURAT PEOPLES CO-OP BANK LTD": "THE SURAT PEOPLES CO-OP BANK LTD",
+      "THE THANE JANATA SAHAKARI BANK LTD": "THE THANE JANATA SAHAKARI BANK LTD",
+      "THE VARACHHA CO-OP. BANK LTD": "THE VARACHHA CO-OP. BANK LTD",
+      "THE VISHWESHWAR SAHAKARI BANK LTD": "THE VISHWESHWAR SAHAKARI BANK LTD",
+      "THE ZOROASTRIAN COOPERATIVE BANK LIMITED": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+      "UCO BANK": "UCO BANK",
+      "UNION BANK OF INDIA": "UNION BANK OF INDIA",
+      "UNITED BANK OF INDIA": "UNITED BANK OF INDIA",
+      "UNITED OVERSEAS BANK": "UNITED OVERSEAS BANK",
+      "VASAI VIKAS SAHAKARI BANK LTD": "VASAI VIKAS SAHAKARI BANK LTD",
+      "VIJAYA BANK": "VIJAYA BANK",
+      "YES BANK LTD": "YES BANK LTD",
+      "BANASKANTHA MERCANTILE COOPERATIVE BANK": "BANASKANTHA MERCANTILE COOPERATIVE BANK",
+      "GUJARAT STATE COOPERATIVE BANK": "GUJARAT STATE COOPERATIVE BANK"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_BankAccountNumber",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_AccountHolderName",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Branch",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_IFCSCODE",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "[Select]"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlUndertake_Vocational_Course",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlTrade",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "--Select--",
+      "61": "Agriculture",
+      "62": "Apparels, Made ups & Home Furnishing",
+      "63": "Automotive",
+      "64": "Beauty & Wellness",
+      "65": "Banking Financial Services and Insurance (BFSI)",
+      "66": "Construction",
+      "67": "Electronics & Hardware",
+      "68": "Healthcare",
+      "69": "IT-ITES",
+      "70": "Transportation, Logistics & Warehousing",
+      "71": "Power",
+      "72": "Media & Entertainment",
+      "73": "Multi Skilling",
+      "74": "Retail",
+      "75": "Private Security",
+      "76": "Sports, Physical Education,Fitness & Leisure",
+      "77": "Telecom",
+      "78": "Tourism & Hospitality",
+      "79": "Plumbing",
+      "81": "Food Processing"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlJob_Role_Codes",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "--Select--",
+      "9": "Assistant Designer - Home furnishing",
+      "10": "Assistant Fashion Designer",
+      "11": "Hand Embroiderer",
+      "12": "Self Employed Tailor",
+      "13": "Sewing Machine Operator",
+      "59": "Specialized Sewing Machine Operator",
+      "95": "Hand Embroider (Addawala)"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Duration_VocationalClasses_Theory",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Duration_VocationalClasses_Practical",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Duration_VocationalClasses_Training_Industry",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Duration_VocationalClasses_Field_Visit",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlAppeared_Last_Examination_VocationalClasses",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "૧-બેઠેલા અને પાસ થયેલા",
+      "2": "૨- બેઠેલા અને નાપાસ થયેલા",
+      "3": "૩- લાગુ પડતુ નથી",
+      "4": "૪- બેઠેલા નથી"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Per_Last_Examination_VocationalClasses",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlApplied_For_placement",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-Applied  and Placed",
+      "2": "2-Applied  and Not Placed",
+      "3": "3-Not Applied"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlApplied_For_Apprenticeship",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1- Applied and Given Apprenticeship",
+      "2": "2- Applied But Not Given Apprenticeship",
+      "3": "3- Not Applied Yet"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlStream",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1 - Arts",
+      "2": "2 - Science",
+      "3": "3 - Commerce",
+      "4": "4 - Vocational",
+      "5": "5 - Other Stream",
+      "6": "6 - NA"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlIronFolicAcid",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlDewormingTablets",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlVitaminATables",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "0": "----Select----",
+      "1": "1-હા",
+      "2": "2-ના"
+    }
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtParentsMobile",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txt_Alternate_Mobile_Number",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_txtEmailID",
+    "label": "",
+    "kind": "text",
+    "options": {}
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_ddlNewYrStatus",
+    "label": "",
+    "kind": "select",
+    "options": {
+      "99": "----Select----",
+      "1": "1-આ શાળમાં જ",
+      "2": "2-બીજી શાળામાં",
+      "3": "3-ડ્રોપઆઉટ",
+      "4": "4-મરણ પામેલ",
+      "7": "7-Migration To Other State/Country",
+      "8": "8-Vocational",
+      "9": "9-ITI",
+      "10": "10-Fail in Board Exam",
+      "11": "11-Duplicate"
+    }
+  }
+]
