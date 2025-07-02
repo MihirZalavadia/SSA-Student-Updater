@@ -6,7 +6,7 @@ Automates updating of student records on government portal. Saves teachers from 
 
 - Logs into portal using Playwright
 - Automatically updates selected fields based on `baseline.xlsx`
-- Handles classes 11 & 12; skips class 9 entirely
+- Handles classes 11 & 12; skips class 9 entirely(ideally has new students already updated from site admin)
 - Robust error-handling with logs written back to `students.xlsx`
 - Lightweight: processes ≈ 50 sec/student vs 4 min manually
 
