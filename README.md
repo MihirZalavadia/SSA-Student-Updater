@@ -129,5 +129,8 @@ This tool was born when we saw how painful it is to update 350+ students manuall
 ## License
 MIT – Use it freely, tweak it respectfully, and help others.
 
-<!-- Tags: Gujarat SSA Automation, Playwright Python, School Admin Script, Student Record Bulk Approval -->
+---
+
+## 🏷️ Tags
+`#GujaratSSA` `#AutomationScript` `#PlaywrightPython` `#SchoolAdminTool` `#BulkApprovalBot`
 
