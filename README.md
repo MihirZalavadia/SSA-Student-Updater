@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-brightgreen)
-![Status](https://img.shields.io/badge/Status-Production-ready-green)# SSA Gujarat Student Updater
+![Status](https://img.shields.io/badge/Status-Production-ready-green)
+
+# SSA Gujarat Student Updater
 
 ## 🤯 Why This Project Exists
 Manually approving SSA student records is slow, repetitive, and time-consuming. This script automates the entire flow using Playwright—boosting speed and reducing human effort drastically.
