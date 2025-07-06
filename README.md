@@ -1,4 +1,6 @@
-# SSA Gujarat Student Updater
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-brightgreen)
+![Status](https://img.shields.io/badge/Status-Production-ready-green)# SSA Gujarat Student Updater
 
 ## 🤯 Why This Project Exists
 Manually approving SSA student records is slow, repetitive, and time-consuming. This script automates the entire flow using Playwright—boosting speed and reducing human effort drastically.
@@ -124,3 +126,6 @@ This tool was born when we saw how painful it is to update 350+ students manuall
 
 ## License
 MIT – Use it freely, tweak it respectfully, and help others.
+
+<!-- Tags: Gujarat SSA Automation, Playwright Python, School Admin Script, Student Record Bulk Approval -->
+
