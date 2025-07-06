@@ -1,6 +1,11 @@
 # SSA Gujarat Student Updater
 
+## 🤯 Why This Project Exists
+Manually approving SSA student records is slow, repetitive, and time-consuming. This script automates the entire flow using Playwright—boosting speed and reducing human effort drastically.
 A user-friendly Python automation script using Playwright that fills up student details on the SSA Gujarat web portal. Built to reduce teacher workload by automatically populating fields based on pre-prepared Excel sheets.
+
+## 🎥 Demo
+![SSA Demo](SSMGujarat.gif)
 
 ---
 
