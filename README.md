@@ -1,6 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-brightgreen)
-![Status](https://img.shields.io/badge/Status-Production-ready-green)
+![Status](https://img.shields.io/badge/Status-Production--ready-green)
 
 # SSA Gujarat Student Updater
 
